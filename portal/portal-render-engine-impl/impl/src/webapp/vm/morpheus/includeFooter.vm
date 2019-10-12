@@ -2,7 +2,7 @@
 
     #if (!$pagepopup)
 
-        <footer id="footer" role="contentinfo" class="Mrphs-footer">
+       #* <footer id="footer" role="contentinfo" class="Mrphs-footer">
 
             <ul id="footer-links" class="Mrphs-footer--nav">
 
@@ -58,7 +58,7 @@
 
                 </ul>
             </div>
-        </footer>
+        </footer>*#
         
         <div class="Mrphs-container Mrphs-container--extras">
 
